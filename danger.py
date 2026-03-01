@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # ================= CONFIG =================
-TELEGRAM_BOT_TOKEN = os.getenv("8332417653:AAG2hhDSjIQzpjQU6-vHYQXpirsyJfrmBls")  # set in environment
+TELEGRAM_BOT_TOKEN = os.getenv("8332417653:AAHTTRmXgoJk1VLDhH8tf9SuJ0rZQY_wXps")  # set in environment
 ADMIN_USER_ID = 1108507810
 USERS_FILE = "users.txt"
 
